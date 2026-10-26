@@ -1,0 +1,12 @@
+.build/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+logs/
+*.log

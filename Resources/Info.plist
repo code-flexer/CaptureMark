@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.capturemark.app</string>
+<key>CFBundleName</key><string>CaptureMark</string>
+<key>CFBundleDisplayName</key><string>CaptureMark</string>
+<key>CFBundleExecutable</key><string>CaptureMark</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.3</string>
+<key>CFBundleVersion</key><string>4</string>
+<key>CFBundleIconFile</key><string>CaptureMark</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSScreenCaptureUsageDescription</key><string>선택한 화면 영역을 캡처해 그리기와 텍스트를 추가합니다. 이미지는 Mac 안에서만 처리합니다.</string>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>
